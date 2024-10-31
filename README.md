@@ -1,1 +1,3 @@
-# 2018 計算機程式設計2 FinalProject
+# Introduction to Programming II
+Course ID: NTHU CS 135602
+Instructor: Shun-Ren Yang
